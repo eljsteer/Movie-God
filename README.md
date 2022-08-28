@@ -40,11 +40,26 @@
   * To run this node application, type `npm run start` to run the server. Then navigate to the webpage url.
 
   ## MEDIA
-  #### Screenshot of App User Interface and Save Note Button
-  ![New Note Save Screenshot](./public/assets/media/NoteStaker_NewNote_Save_SS.jpg)
+  #### Screenshot of Homepage (Top)
+  ![Homepage Screenshot](./public/images/readMe/homepage1_SS.jpg)
 
-   #### Screenshot of App User Interface and Delete Note Button
-  ![Note Delete Screenshot](./public/assets/media/NoteStaker_NewNote_Delete_SS.jpg)
+  #### Screenshot of Homepage (Bottom)
+  ![Homepage bottom Screenshot](./public/images/readMe/homepage2_SS.jpg)
+
+  #### Screenshot of Login Page
+  ![Login Page Screenshot](./public/images/readMe/login_SS.jpg)
+
+  #### Screenshot of Sign-up Page
+  ![Sign-up Page Screenshot](./public/images/readMe/signup_SS.jpg)
+
+  #### Screenshot of Top Rated Movies Page
+  ![Top Rated movies Page Screenshot](./public/images/readMe/top_rated_movies-LoggedIn_SS.jpg)
+
+  #### Screenshot of Movie Reviews Page
+  ![Movie Revies Page Screenshot](./public/images/readMe/movie_review-LoggedIn_SS.jpg)
+
+  #### Screenshot of My Profile Page
+  ![My Profile Page Screenshot](./public/images/readMe/my_profile_reviewed-LoggedIn_SS.jpg)
   
   ## LICENSE
   Project developed 2022 by Jason Steer,<br />
