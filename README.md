@@ -32,8 +32,8 @@
   ##### In your terminal: <br/>
   2. To install the required NPM packages to run the backend functionality, Type `npm install` in the command line to install associated npm packages and node modules to be able to download all required packages under "dependencies in the "package.json" file.
   3. You will then need to create the database with the following commands in the terminal `mySQL -u root -p`, then type your password for your mySQL database.
-  * Secondly type `SOURCE DB/schema.sql` in the mySQL command terminal, then type `Quit` to quit the mySQL command console.
-  * Next you will need to prefill the database with seed data. Type `npm run seed` to seed DB.
+  4. Secondly type `SOURCE DB/schema.sql` in the mySQL command terminal, then type `Quit` to quit the mySQL command console.
+  5. Next you will need to prefill the database with seed data. Type `npm run seed` to seed DB.
 
   ## Usage
 
