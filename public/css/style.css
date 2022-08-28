@@ -93,27 +93,14 @@ input::placeholder{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 250%;
 }
-#sign-up-name{
+
+#sign-up-labels {
     color: white;
-    padding-top: 10%;
+    padding-top: 5%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#sign-up-email{
-    color: white;
-    padding-top: 10%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#sign-up-password{
-    color: white;
-    padding-top: 10%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#sign-up-username{
-    color: white;
-    padding-top: 10%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 120%;
 }
 #signup-btn{
-    margin-top: 5%;
+    /* margin: 5% 0; */
 }
 
