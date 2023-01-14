@@ -22,7 +22,7 @@
   
   ## Application Deployment Links:
 
-  [Movie God](movie-god)
+  [Movie God](https://movie-god.herokuapp.com/)
 
   ## INSTALLATION
   To install the application to view the code:
