@@ -22,7 +22,7 @@
   
   ## Application Deployment Links:
 
-  [Movie God]()
+  [Movie God](movie-god)
 
   ## INSTALLATION
   To install the application to view the code:
